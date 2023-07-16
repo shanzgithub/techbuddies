@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta Carbonara",
+    "image": "pazzz.jpeg",
+    "description": "Classic Italian pasta dish with eggs, cheese, and pancetta.",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Parmesan cheese",
+      "Pancetta",
+      "Garlic",
+      "Black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Cook the pasta...",
+      "In a bowl, whisk together the eggs, grated Parmesan cheese, black pepper, and salt...",
+      "In a skillet, cook the pancetta and garlic...",
+      "Toss the cooked pasta with the pancetta mixture and egg mixture...",
+      "Serve immediately and enjoy!"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Stir-Fry",
+    "image": "stir fry.jpeg",
+    "description": "Quick and easy stir-fried chicken with vegetables in a savory sauce.",
+    "ingredients": [
+      "Chicken breast",
+      "Broccoli",
+      "Carrots",
+      "Bell peppers",
+      "Onion",
+      "Garlic",
+      "Soy sauce",
+      "Sesame oil",
+      "Cornstarch"
+    ],
+    "instructions": [
+      "Cut the chicken into thin strips...",
+      "Heat oil in a large skillet or wok...",
+      "Add the chicken and cook until browned...",
+      "Add the vegetables and garlic, stir-fry until crisp-tender...",
+      "In a small bowl, whisk together soy sauce, sesame oil, and cornstarch...",
+      "Pour the sauce over the chicken and vegetables, stirring constantly...",
+      "Cook until the sauce thickens and coats the ingredients...",
+      "Serve hot with rice and enjoy!"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Chip Cookies",
+    "image": "choco.jpeg",
+    "description": "Classic homemade chocolate chip cookies that are soft and chewy.",
+    "ingredients": [
+      "All-purpose flour",
+      "Butter",
+      "Granulated sugar",
+      "Brown sugar",
+      "Eggs",
+      "Vanilla extract",
+      "Baking soda",
+      "Salt",
+      "Chocolate chips",
+      "Chopped nuts (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C)...",
+      "In a large bowl, cream together the butter, granulated sugar, and brown sugar...",
+      "Beat in the eggs and vanilla extract...",
+      "In a separate bowl, whisk together the flour, baking soda, and salt...",
+      "Gradually add the dry ingredients to the wet ingredients...",
+      "Stir in the chocolate chips and nuts (if using)...",
+      "Drop rounded tablespoonfuls of dough onto ungreased baking sheets...",
+      "Bake for 9-11 minutes or until golden brown around the edges...",
+      "Let the cookies cool on the baking sheets for a few minutes, then transfer to wire racks to cool completely...",
+      "Enjoy the delicious homemade cookies!"
+    ]
+  },
+
+
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "image": "marga.jpeg",
+    "description": "Classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+    "ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Preheat the oven to 475°F (245°C)...",
+      "Roll out the pizza dough on a floured surface...",
+      "Spread tomato sauce evenly over the dough...",
+      "Top with shredded mozzarella cheese...",
+      "Place fresh basil leaves on top...",
+      "Drizzle with olive oil and sprinkle with salt and black pepper...",
+      "Bake in the preheated oven for 12-15 minutes or until the crust is golden and the cheese is melted and bubbly...",
+      "Remove from the oven and let it cool for a few minutes before slicing...",
+      "Serve hot and enjoy!"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chicken Caesar Salad",
+    "image": "Chicken Caesar Salad.jpeg",
+    "description": "Classic Caesar salad with grilled chicken, romaine lettuce, croutons, and creamy Caesar dressing.",
+    "ingredients": [
+      "Grilled chicken breast",
+      "Romaine lettuce",
+      "Croutons",
+      "Parmesan cheese",
+      "Caesar dressing",
+      "Lemon juice",
+      "Garlic",
+      "Worcestershire sauce",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Slice the grilled chicken into thin strips...",
+      "Wash and chop the romaine lettuce...",
+      "In a large bowl, combine the romaine lettuce, croutons, and Parmesan cheese...",
+      "In a separate bowl, whisk together Caesar dressing, lemon juice, minced garlic, Worcestershire sauce, salt, and black pepper...",
+      "Pour the dressing over the salad and toss to coat evenly...",
+      "Top the salad with sliced grilled chicken...",
+      "Serve immediately and enjoy!"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "berry smoothie",
+    "image": "smoothie.jpeg",
+    "description": "Refreshing and nutritious smoothie made with a blend of mixed berries and yogurt.",
+    "ingredients": [
+      "Mixed berries (strawberries, blueberries, raspberries)",
+      "Yogurt (plain or flavored)",
+      "Milk (dairy or plant-based)",
+      "Honey (optional)",
+      "Ice cubes"
+    ],
+    "instructions": [
+      "Add mixed berries, yogurt, milk, honey (if using), and ice cubes to a blender...",
+      "Blend on high speed until smooth and creamy...",
+      "Taste and adjust sweetness by adding more honey if desired...",
+      "Pour into glasses and serve immediately..."
+    ]
+  }
+]

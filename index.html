@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Recipe Finder</title>
+    <link rel="stylesheet" type="text/css" href="app.css">
+</head>
+<body>
+    <header>
+        <h1>Recipe Finder</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Search Recipes</h2>
+            <form id="searchForm">
+                <input type="text" id="searchInput" placeholder="Search by ingredient...">
+                <button type="submit">Search</button>
+            </form>
+        </section>
+
+        <section id="recipeResults">
+            <h2>Results</h2>
+            <div id="recipeCards">
+                <!-- Recipe cards will be dynamically added here -->
+            </div>
+        </section>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+
